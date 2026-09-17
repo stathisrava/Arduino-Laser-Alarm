@@ -28,13 +28,13 @@ https://github.com/user-attachments/assets/YOUR-VIDEO-ID
 
 The system uses a light sensor to detect the laser beam.
 
-**Red LED** → System is **unarmed**
-**Green LED** → System is **armed**
-**Laser on sensor** → Everything is normal
-* **Laser beam blocked** → Alarm activates
-* **Buzzer** → Plays a sweeping siren
-* **Two LEDs** → Flash while the alarm is active
-* **Button** → Arms, disarms, or stops the alarm
+**Red LED** → System is unarmed    
+**Green LED** → System is armed    
+**Laser on sensor** → Everything is normal   
+**Laser beam blocked** → Alarm activates  
+**Buzzer** → Plays a sweeping siren  
+**Two LEDs** → Flash while the alarm is active  
+**Button** → Arms, disarms, or stops the alarm  
 
 The system starts **unarmed** when powered on.
 
