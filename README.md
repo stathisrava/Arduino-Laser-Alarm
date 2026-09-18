@@ -1,12 +1,11 @@
 # Laser Tripwire Alarm
 
-An Arduino-based laser tripwire security alarm. A laser is aimed at a light sensor, and when the beam is interrupted, the system activates a sweeping siren and flashing LEDs.
+An Arduino-based laser tripwire security alarm. A laser is aimed at a light sensor, and when the beam is interrupted, the system activates a sweeping siren and flashing LEDs.  
 
+ 
 ## Demo
 
-<!-- Upload your short demo video here by dragging the MP4 into GitHub's README editor -->
-
-https://github.com/user-attachments/assets/YOUR-VIDEO-ID  
+https://github.com/user-attachments/assets/804d4464-f29b-4770-97d3-df1d732fe195  
 
 
 ## Requirements
